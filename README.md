@@ -1,4 +1,4 @@
-# Web3app
+# Blockchain wallet - a React App
 A web application project to help manage your crypto wallet with blockchain technology by Guyass Rozybakiev
 Readme files in each folder on how to use the web application
 
